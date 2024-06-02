@@ -1,22 +1,13 @@
 <html>
 <head>
     <title>My First Web Page:</title>
-    <style text="css"> </style>
 </head>
 <body bgcolor="neutralshade">   
 <h>	
 
 <img src="alii.png"  align="left"/>
-<style>
-    img {
-          height: 250px;
-          font-weight: 250px;
-          border-radius: 50%;
-    }
-  h1 {
-    text-align: center;
-  } 
-</style>
+
+
 <nav>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a href="#Home">Home</a>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a href="Search">Search</a>
